@@ -11,6 +11,7 @@ export function FilterSpecies() {
     const [gender, setGender] = useState("Human")
     const [post, setPost] = useState([])
     let [pagination, setPagination] = useState(1)
+    
     useEffect(() => {
         const onSubmitHandler = async () => {
           try {

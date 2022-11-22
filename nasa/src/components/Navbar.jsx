@@ -17,6 +17,8 @@ export function search(name){
 export function Navbar_dark() {
 
   let [name, setName] = useState("")
+ 
+ 
   const handleSubmit = (e) => {
     search(name)
     localStorage.setItem('search', name);

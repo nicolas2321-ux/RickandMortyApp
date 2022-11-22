@@ -7,9 +7,9 @@ import { Card } from './pages/Characters';
 import "bootstrap/dist/css/bootstrap.min.css";
 // Bootstrap Bundle JS
 import "bootstrap/dist/js/bootstrap.bundle.min";
-import {Navbar_dark} from "./components/Navbar";
+
 import { BrowserRouter } from 'react-router-dom';
-import { searchProvider } from './Provider';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

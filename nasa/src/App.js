@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import { Route, Routes } from "react-router-dom"
 import { Location } from './pages/Location';
@@ -18,6 +18,7 @@ function App() {
     <Routes>
       
       <Route path='' element = {<Card></Card>}/>
+      <Route path='RickandMortyApp' element = {<Card></Card>}/>
       <Route path='/locations' element = {<Location/>}/>
       <Route path='/episodes' element = {<Episodes/>}/>
       <Route path='/search' element = {<Search/>}/>
