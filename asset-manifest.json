@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/RickandMortyApp/static/css/main.55f612a2.css",
-    "main.js": "/RickandMortyApp/static/js/main.ecef8cd3.js",
+    "main.js": "/RickandMortyApp/static/js/main.46c46485.js",
     "static/js/787.37980ae4.chunk.js": "/RickandMortyApp/static/js/787.37980ae4.chunk.js",
     "index.html": "/RickandMortyApp/index.html",
     "main.55f612a2.css.map": "/RickandMortyApp/static/css/main.55f612a2.css.map",
-    "main.ecef8cd3.js.map": "/RickandMortyApp/static/js/main.ecef8cd3.js.map",
+    "main.46c46485.js.map": "/RickandMortyApp/static/js/main.46c46485.js.map",
     "787.37980ae4.chunk.js.map": "/RickandMortyApp/static/js/787.37980ae4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.55f612a2.css",
-    "static/js/main.ecef8cd3.js"
+    "static/js/main.46c46485.js"
   ]
 }
